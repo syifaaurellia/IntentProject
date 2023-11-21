@@ -39,7 +39,7 @@ Pertama, yaitu membuat Launcher Splash Logo atau menampilkan logo / icon saat ki
 Caranya adalah :
 
 - Persiapkan gambar terlebih dahulu
-- Klik `app`, lalu klik `mipmap`
+- Selanjutnya kita klik `app`, lalu klik `res` dan setelahnya kita pilih dan klik `mipmap`
 - Setelah itu klik kanan pada bagian `mipmap` , lalu pilih `new`
 - Lalu pilih dan klik `Image Asset`
 - Lalu ketika sudah terbuka, kita klik bagian `Icon Type` lalu pilih yang `Launcher Icons (Adaptive and Legacy)`
